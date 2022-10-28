@@ -1,0 +1,1 @@
+# Что обозначает `this` в JavaScript?

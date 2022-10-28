@@ -1,0 +1,1 @@
+# Разниц между `Object.freeze()` и `Object.seal()`?

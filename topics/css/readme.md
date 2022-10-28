@@ -1,0 +1,33 @@
+<h3>
+  <img src="../assets/CSS.png" width="16" height="16" />
+  <span>CSS:</span>
+</h3>
+
+- Что такое CSS? И для чего он используется? [YouTube](https://youtu.be/ycYp7CYOnO0?t=251) [Текст](./questions/question_1.md)
+- Что такое CSS-правило? [YouTube](https://youtu.be/CjdCxxqObaM?t=228) [Текст](./questions/question_2.md)
+- Варианты добавление CSS стилей на страницу? [YouTube](https://youtu.be/ycYp7CYOnO0?t=277) [Текст](./questions/question_3.md)
+- Типы позиционирования в CSS? [YouTube](https://youtu.be/ycYp7CYOnO0?t=321) [Текст](./questions/question_4.md)
+- Блочная модель CSS? [YouTube](https://youtu.be/ycYp7CYOnO0?t=410) [Текст](./questions/question_5.md)
+- Что такое селектор? И какие селекторы существуют? [YouTube](https://youtu.be/G7hLwudGWL4?t=282) [Текст](./questions/question_6.md)
+- Что такое специфичность селектора? Как считать вес селектора? [YouTube](https://youtu.be/G7hLwudGWL4?t=358) [Текст](./questions/question_7.md)
+- Разница между Reset.css и Normalize.css? [YouTube](https://youtu.be/G7hLwudGWL4?t=445) [Текст](./questions/question_8.md)
+- Разница между `margin` и `padding`? [YouTube](https://youtu.be/1eIRTdgzHtw?t=116) [Текст](./questions/question_9.md)
+- Разница между `display: none` и `visibility: hidden`? [YouTube](https://youtu.be/1eIRTdgzHtw?t=139) [Текст](./questions/question_10.md)
+- Разница между блочным и строчным (инлайновым) элементами? [YouTube](https://youtu.be/1eIRTdgzHtw?t=188) [Текст](./questions/question_11.md)
+- Разница между классом и идентификатором в CSS? [YouTube](https://youtu.be/CjdCxxqObaM?t=264) [Текст](./questions/question_12.md)
+- Что такое CSS спрайт? И для чего он используется? [YouTube](https://youtu.be/CjdCxxqObaM?t=330) [Текст](./questions/question_13.md)
+- Что такое вендорные префиксы? И для чего они используются? [YouTube](https://youtu.be/rlWgI7AvV18?t=234) [Текст](./questions/question_14.md)
+- Что такое псевдоэлементы? И для чего они используются? [YouTube](https://youtu.be/rlWgI7AvV18?t=355) [Текст](./questions/question_15.md)
+- Что такое схлопывание границ (margin collapsing)? [YouTube](https://youtu.be/kx3dR6ztICU?t=30) [Текст](./questions/question_16.md)
+- Что такое CSS препроцессор? [YouTube](https://youtu.be/kx3dR6ztICU?t=159) [Текст](./questions/question_17.md)
+- Что такое `z-index`? Как формируется контекст наложения? [YouTube](https://youtu.be/GZUy2i6QN7o?t=102) [Текст](./questions/question_18.md)
+- Порядок наложения элементов в CSS (Stacking Order)? [YouTube](https://youtu.be/GZUy2i6QN7o?t=204) [Текст](./questions/question_19.md)
+- Как с помощью CSS определить, поддерживается ли свойство в браузере? [YouTube](https://youtu.be/70VnuTXi4Wk?t=32) [Текст](./questions/question_20.md)
+- Как поддерживать страницы в браузерах с ограниченными функциями? [YouTube](https://youtu.be/70VnuTXi4Wk?t=75) [Текст](./questions/question_21.md)
+- Как исправлять специфичные проблемы со стилями для разных браузеров? [YouTube](https://youtu.be/70VnuTXi4Wk?t=122) [Текст](./questions/question_22.md)
+- Глобальные ключевые слова в CSS? [YouTube](https://youtu.be/VYQl2GhbCUs?t=224) [Текст](./questions/question_23.md)
+- Что такое CSS-атрибут (`attr`)? [YouTube](https://youtu.be/VYQl2GhbCUs?t=301) [Текст](./questions/question_24.md)
+- Что такое перечисление селекторов? [YouTube](https://youtu.be/VYQl2GhbCUs?t=336) [Текст](./questions/question_25.md)
+- Для чего используется ключевое слово `currentColor` в CSS? [YouTube](https://youtu.be/trriSYNrHw4?t=549) [Текст](./questions/question_26.md)
+- Какие псевдоклассы были добавлены в CSS3? [YouTube](https://youtu.be/trriSYNrHw4?t=592) [Текст](./questions/question_27.md)
+- Какие фильтры есть в CSS? [YouTube](https://youtu.be/trriSYNrHw4?t=662) [Текст](./questions/question_28.md)

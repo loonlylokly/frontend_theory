@@ -1,0 +1,1 @@
+# Разница между `cookie`, `sessionStorage` и `localStorage`?

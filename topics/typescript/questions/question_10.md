@@ -1,0 +1,1 @@
+# Что такое JSX в TypeScript? Какие режимы JSX поддерживает TypeScript?

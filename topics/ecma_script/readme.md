@@ -1,0 +1,18 @@
+
+
+- Что такое ECMAScript? В чём отличие от JavaScript? [YouTube](https://youtu.be/IooJ3P2VUYs?t=336) [Текст](./questions/question_1.md)
+- Разница между `let`, `const` и `var`? [YouTube](https://youtu.be/1eIRTdgzHtw?t=361) [Текст](./questions/question_2.md)
+- Можно ли изменить значение определённое через `const`? [YouTube](https://youtu.be/IooJ3P2VUYs?t=407) [Текст](./questions/question_3.md)
+- Что такое временная мёртвая зона (temporal dead zone)? [YouTube](https://youtu.be/IooJ3P2VUYs?t=478) [Текст](./questions/question_4.md)
+- Разница между Rest и Spread операторами? [YouTube](https://youtu.be/w-vUj0gHGgg?t=183) [Текст](./questions/question_5.md)
+- Что такое деструктуризация? [YouTube](https://youtu.be/w-vUj0gHGgg?t=241) [Текст](./questions/question_6.md)
+- Для чего используется цикл `for…of`? [YouTube](https://youtu.be/G4iYlbilozM?t=223) [Текст](./questions/question_7.md)
+- Что такое шаблонные литералы (Template Literals)? [YouTube](https://youtu.be/G4iYlbilozM?t=254) [Текст](./questions/question_8.md)
+- Что такое `Set`, `Map`, `WeakMap` и `WeakSet`? [YouTube](https://youtu.be/G4iYlbilozM?t=288) [Текст](./questions/question_9.md)
+- Разница между обычными функциями и стрелочными? [YouTube](https://youtu.be/nvktMVFM0_M?t=347) [Текст](./questions/question_10.md)
+- Разница между методом `Object.freeze()` и `const`? [YouTube](https://youtu.be/nvktMVFM0_M?t=429) [Текст](./questions/question_11.md)
+- Что такое итераторы? [YouTube](https://youtu.be/trriSYNrHw4?t=836) [Текст](./questions/question_12.md)
+- Что такое генераторы? Когда стоит использовать генераторы? [YouTube](https://youtu.be/nvktMVFM0_M?t=476) [Текст](./questions/question_13.md)
+- Что такое ES6 модули? [YouTube](https://youtu.be/V-m0sQ-hW58?t=494) [Текст](./questions/question_14.md)
+- Что такое символ (Symbol) в ES6? [YouTube](https://youtu.be/V-m0sQ-hW58?t=571) [Текст](./questions/question_15.md)
+- Для чего используется метод `.includes()`? [YouTube](https://youtu.be/VYQl2GhbCUs?t=666) [Текст](./questions/question_16.md)

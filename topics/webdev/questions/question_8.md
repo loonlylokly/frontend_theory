@@ -1,0 +1,1 @@
+# Разница между feature detection, feature inference и анализом строки user-agent?

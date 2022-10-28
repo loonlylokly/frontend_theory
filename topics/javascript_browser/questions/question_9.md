@@ -1,0 +1,1 @@
+# Разница между attribute и property у DOM-элементов?

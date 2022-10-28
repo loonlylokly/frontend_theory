@@ -1,0 +1,1 @@
+# Разница между `typeof` и `instanceof`?

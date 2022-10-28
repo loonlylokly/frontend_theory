@@ -1,0 +1,1 @@
+# Что такое внешние объявления переменных (ambient declaration) в TypeScript?

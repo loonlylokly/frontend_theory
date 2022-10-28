@@ -1,0 +1,1 @@
+# Что такое Strict mode в JavaScript?

@@ -1,0 +1,1 @@
+# Расскажите о meta-теге с name="viewport"?

@@ -1,0 +1,1 @@
+# Разница между `e.preventDefault()` и `e.stopPropagation()`?

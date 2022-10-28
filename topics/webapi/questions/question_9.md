@@ -1,0 +1,1 @@
+# Что такое безопасные (Secure) и HttpOnly cookies?

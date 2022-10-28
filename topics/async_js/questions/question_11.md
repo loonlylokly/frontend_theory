@@ -1,0 +1,1 @@
+# Разница между `Promise.all()`, `Promise.any()` и `Promise.race()`?

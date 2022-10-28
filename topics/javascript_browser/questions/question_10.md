@@ -1,0 +1,1 @@
+# Разница между HTMLCollection и NodeList?
